@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer & Senior Aerospace Customer Experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sgonzalezdev&label=Profile%20views&color=0e75b6&style=flat" alt="sgonzalezdev" /> </p>
- # # 💫About Me :
+## 💫About Me :
  
 - 🔭 I’m currently working on [Cloud Computing Platforms](https://hofundws.com/)
 
